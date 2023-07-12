@@ -1,0 +1,2 @@
+Wizard Vicuna models: https://huggingface.co/TheBloke/Wizard-Vicuna-7B-Uncensored-GGML/tree/main
+Wizard Mega models: https://huggingface.co/TheBloke/wizard-mega-13B-GGML/tree/main

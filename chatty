@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+cd ~/code/chatty/
+python3 -m chatty_app "$@" 2>/dev/null
